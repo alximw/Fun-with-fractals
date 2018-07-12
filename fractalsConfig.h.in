@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define fractals_VERSION_MAJOR @fractals_VERSION_MAJOR@
+#define fractals_VERSION_MINOR @fractals_VERSION_MINOR@
